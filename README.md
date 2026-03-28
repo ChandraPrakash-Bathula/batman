@@ -1,4 +1,4 @@
-```
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d0000,100:1a0000&height=220&section=header&text=CHANDRA%20PRAKASH%20BATHULA&fontSize=36&fontColor=cc0000&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Frontend%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Educator&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
   <br/>
@@ -18,7 +18,7 @@
 ---
 
 ## `> IDENTITY`
-```
+
 ┌─────────────────────────────────────────────────────────────┐
 │ ALIAS     : Chandra Prakash Bathula                         │
 │ BASE      : Saint Louis University — St. Louis, MO          │
@@ -29,7 +29,7 @@
 │ PROJECTS  : 40+ Full-Stack Apps Deployed                    │
 │ MISSION   : Build AI-powered systems. Eliminate noise.      │
 └─────────────────────────────────────────────────────────────┘
-```
+
 
 ---
 
@@ -38,7 +38,6 @@
 <tr>
 <td width="50%" valign="top">
 
-```
 [ UTILITY BELT — Engineering ]
 ──────────────────────────────
 ▸ React / Vue / Next.js DEPLOYED
@@ -47,11 +46,11 @@
 ▸ iPaaS Automation 40% CUT
 ▸ Analytics Dashboards REAL-TIME
 ▸ SLU Web Systems 30% FASTER
-```
+
 </td>
 <td width="50%" valign="top">
 
-```
+
 [ BATCOMPUTER — AI & Research ]
 ────────────────────────────────
 ▸ NLP: Word2Vec · TF-IDF TRAINED
@@ -60,7 +59,7 @@
 ▸ Research Paper (1st Author) LIVE
 ▸ CCSC Conference Talk DELIVERED
 ▸ 3D PCA — 10K Vectors 85% SIMPLER
-```
+
 </td>
 </tr>
 </table>
@@ -118,13 +117,13 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8)
 </div>
 
-```
+
 [✓] First Author — "Enterprise Application Tool to Discover Midwest Job Trends"
 [✓] Distinguished Student Award — Master's Research & Academic Excellence
 [✓] Speaker — CCSC Central Plains Conference @ Drake University
 [✓] 40+ Full-Stack Production Projects Deployed
 [✓] 20+ Capstone Projects Guided End-to-End
-```
+
 
 ---
 
@@ -150,7 +149,7 @@
 > *Interactive 3D Bat-Signal • Batmobile • Floating Bat Logo with rain & atmospheric effects — Built with Three.js*
 
 **"The Dark Knight never stops building."**
-```
+
 Make sure you have already deployed the `batcave` GitHub Pages with the full HTML code I gave you earlier so the link works.
 
 Let me know once it's live! 🦇
